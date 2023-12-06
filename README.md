@@ -1,4 +1,4 @@
-# TaskWeaver
+# TaskWeaver:
 
 A **code-first** agent framework for seamlessly planning and executing data analytics tasks. 
 This innovative framework interprets user requests through coded snippets and efficiently 
